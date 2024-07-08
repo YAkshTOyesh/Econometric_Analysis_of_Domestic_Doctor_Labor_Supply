@@ -1,4 +1,4 @@
-# Econometric_Analysis_of_Domestic_Doctor_Labor_Supply
+# Econometric Analysis of Domestic Doctor Labor Supply
 This project explores the question: "Does Migration Exacerbate Domestic Labor Supply in Healthcare?".  
 Data: OECD Statistics (24 OECD countries out of 38 countries).  
 Main keytakeaway: 
