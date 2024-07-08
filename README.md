@@ -8,7 +8,7 @@ Main keytakeaway:
 > Keeping all other explanatory variables constant.
 
 Kindly find the Model Interpretation presentation [here.](https://docs.google.com/presentation/d/1w0zTjAKUdtCZbffnUG3EMRmjcUv2T4RspVwW8S1LCKY/edit#slide=id.p) or check out the pdf verison in this repository.  
-Kindly find the Tableau Dashboard (without regression model) [here.](https://public.tableau.com/views/YakshDashboardEconometricAnalysis/FinalDashboardYaksh?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link).  
+Kindly find the Tableau Dashboard (without regression model) [here.](https://public.tableau.com/views/YakshDashboardEconometricAnalysis/FinalDashboardYaksh?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) (with interactivity) 
 
 ![Example Image](images/view.png)
 
